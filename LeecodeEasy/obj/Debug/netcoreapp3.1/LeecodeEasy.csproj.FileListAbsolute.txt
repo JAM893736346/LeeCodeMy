@@ -1,0 +1,14 @@
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\bin\Debug\netcoreapp3.1\LeecodeEasy.exe
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\bin\Debug\netcoreapp3.1\LeecodeEasy.deps.json
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\bin\Debug\netcoreapp3.1\LeecodeEasy.runtimeconfig.json
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\bin\Debug\netcoreapp3.1\LeecodeEasy.runtimeconfig.dev.json
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\bin\Debug\netcoreapp3.1\LeecodeEasy.dll
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\bin\Debug\netcoreapp3.1\LeecodeEasy.pdb
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\obj\Debug\netcoreapp3.1\LeecodeEasy.csproj.AssemblyReference.cache
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\obj\Debug\netcoreapp3.1\LeecodeEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\obj\Debug\netcoreapp3.1\LeecodeEasy.AssemblyInfoInputs.cache
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\obj\Debug\netcoreapp3.1\LeecodeEasy.AssemblyInfo.cs
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\obj\Debug\netcoreapp3.1\LeecodeEasy.csproj.CoreCompileInputs.cache
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\obj\Debug\netcoreapp3.1\LeecodeEasy.dll
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\obj\Debug\netcoreapp3.1\LeecodeEasy.pdb
+C:\Users\JAN CHEN\source\repos\Leecode\LeecodeEasy\obj\Debug\netcoreapp3.1\LeecodeEasy.genruntimeconfig.cache
